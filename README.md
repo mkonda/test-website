@@ -20,5 +20,6 @@ Everybody together, now, go!
 
 ## References
 
-[Detail](Detail.md)
+[Link To Detail Page](Detail.md)
+
 [KATDL](https://katdl.com)
