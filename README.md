@@ -8,7 +8,7 @@ While doing KATDL work.
 
 The team is awesome!!!
 
-We are *crushing* it!
+We are sort of *crushing* it!
 
 Everybody together, now, go!
 
